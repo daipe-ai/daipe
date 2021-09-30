@@ -1,5 +1,5 @@
 # Daipe
 
-Daipe is an Enterprise AI Platform which helps you to prepare data, build ML models and productionalize them in the enterprise environment fast.
+**This repository is used for Issues and Discussions about the Daipe platform.**
 
 For more information see [our documentation](https://docs.daipe.ai/)
